@@ -28,7 +28,9 @@ and the customers to be assigned to each open depot.
 
 ## References
 [1]  D. Tuzun, L. Burke (1999). A two-phase tabu search approach to the location routing problem, European Journal of Operational Research vol.116, no. 1, pp. 87–99. 
-[2]  C. Prins, C. Prodhon, R. Wolfler-Calvo, Nouveaux algorithmes pour le problème de localisation et routage sous contraintes de capacité, in: MOSIM (4éme Conférence Francophone de Modélisation et Simluation, Nantes, France, v 
-[3]  S. Barreto, Análise e Modelização de Problemas de localização-distribuição (Analysis and modelling of location-routing problems), PhD thesis, University of Aveiro (2004) 3810–4193. 
-vol. 4, 1115–1122, 2004. 
+
+[2]  C. Prins, C. Prodhon, R. Wolfler-Calvo, Nouveaux algorithmes pour le problème de localisation et routage sous contraintes de capacité, in: MOSIM (4éme Conférence Francophone de Modélisation et Simluation, Nantes, France, v
+
+[3]  S. Barreto, Análise e Modelização de Problemas de localização-distribuição (Analysis and modelling of location-routing problems), PhD thesis, University of Aveiro (2004) 3810–4193. vol. 4, 1115–1122, 2004. 
+
 [4]  B. Golden, A. Assad, L. Levy, and F. Gheysens (1984), The fleet size and mix vehicle routing problem, Computers & Operations Research, vol. 11, no. 1, pp. 49–66.
