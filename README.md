@@ -1,8 +1,7 @@
 # LRPH instances
 
-Instances used for:
-"A COMPUTATIONAL COMPARISON OF GRANULAR ALGORITHMS
-FOR THE LOCATION-ROUTING PROBLEM WITH HETEROGENEOUS FLEET (LRPH)"
+If you consider using these instances, please cite the paper:
+"Bernal-Moyano, J. A., Escobar, J. W., Marín-Moreno, C., Linfati, R., & Gatica, G. (2017). A comparison of trajectory granular based algorithms for the location-routing problem with heterogeneous fleet (LRPH). Dyna, 84(200)."
 
 ## Brief
 
